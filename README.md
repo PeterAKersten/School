@@ -1,11 +1,14 @@
 ## Schwingungen und Wellen
 
-Bei Schwingungen und Wellen finden periodische Zustandsänderungen statt, im allgemeinen Fall wird Energie zwischen Energiereservoirs periodisch hin und her bewegt.
-Bei mechanischen Schwingungen eines Federpendels wird Energie zwischen potentieller und kinetischer Energie ausgetauscht.
-In einem elektromagnetischen Schwingkreis erfolgt ein Austausch zwischen der elektrischen Energie des Kondensators und der magnetischen Energie der Spule
-Eine grundlegende Schwingungsbewegung ist die harmonische Schwingung, diese können durch harmonische Funktionen wie Sinus- und Kosinusfunktionen beschrieben werden.
+Eine grundlegende Schwingungsbewegung ist die harmonische Schwingung, die durch harmonische Funktionen wie Sinus- und Kosinusfunktionen beschrieben werden kann.
+
+𝑥(𝑡)=𝐴⋅𝑐𝑜𝑠(𝜔⋅𝑡+𝛿)
+
+Wie sich mit der Amplitude $A$ 
 
 
+Hierbei ist 𝑥(𝑡)
+die Auslenkung zum Zeitpunkt 𝑡, 𝐴 die maximale Auslenkung (Amplitude), 𝜔 die Kreisfreqzuenz und 𝛿 die Phasenkonstante.
 
 
 
