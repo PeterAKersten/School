@@ -4,7 +4,7 @@ Eine grundlegende Schwingungsbewegung ist die harmonische Schwingung, die durch 
 
 $x(t)=A\cdot cos(\omega \cdot t + \delta)$
 
-Wie sich die Auslenkung $x(t)$ mit der Amplitude $A$, der Kreisfrequenz $\omega$ und der Phasenkonstante $\delta$ ändert kann man im interaktiven Skript beobachten in dem man die entsprechenden Schieberegler verwendet.
+Wie sich die Auslenkung $x(t)$ mit der Amplitude $A$, der Kreisfrequenz $\omega$ und der Phasenkonstante $\delta$ ändert, kann man im interaktiven Skript beobachten, in dem man die Werte mit den entsprechenden Schieberegler verändert.
 
 Das interaktive Skript kann durch einen Mausklick auf das launch|binder-Logo gestartet werden. 
 
